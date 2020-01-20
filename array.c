@@ -25,16 +25,16 @@ void deb(); // loading
 
 /* 
 	20 de janeiro de 2020	
-    Departamento de T.I., UniProjeção (Taguatinga, Campus I)
+    Departamento de T.I., UniProjeÃ§Ã£o (Taguatinga, Campus I)
     
-    Sistemas de Informação (3º semestre)
+    Sistemas de InformaÃ§Ã£o (3Âº semestre)
     Autor: Yan Almeida Garcia
     
-    00) Indentação de saída de uma matriz de design responsivo e mutável.
+    00) IndentaÃ§Ã£o de saÃ­da de uma matriz de design responsivo e mutÃ¡vel.
 		- Entrada de dados: sizing off >> linhas e colunas
 		- opt 1 - Entrada de dados: preenchendo array (srand)
 		- opt 2 - Entrada de dados: preenchendo array (stdin)
-		- Exibição de dados >> srand/stdin	
+		- ExibiÃ§Ã£o de dados >> srand/stdin	
 */
 
 // global vars.
